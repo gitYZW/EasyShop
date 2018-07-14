@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:18:40 +0800] "GET / HTTP/1.1" 200 104241 http-bio-8082-exec-7 43556
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:18:48 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8082-exec-7 493
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:18:48 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8082-exec-7 148
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:18:53 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8082-exec-3 2

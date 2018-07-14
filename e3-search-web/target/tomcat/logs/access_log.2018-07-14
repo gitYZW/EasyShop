@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:19:57 +0800] "GET /search.html?keyword=%E5%B0%8F%E9%BE%99%E8%99%BE HTTP/1.1" 200 22344 http-bio-8085-exec-1 13514
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:20:02 +0800] "GET /images/foot/logo.jpg HTTP/1.1" 304 - http-bio-8085-exec-8 258
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:20:02 +0800] "GET /images/logo66.png HTTP/1.1" 304 - http-bio-8085-exec-9 109
+0:0:0:0:0:0:0:1 - - [14/Jul/2018:21:20:05 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-9 2
