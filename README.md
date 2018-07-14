@@ -2,11 +2,11 @@
 基于SOA架构的电子商务系统项目
 
 ## 项目技术
-1.dubbo
-2.FastDFS
-3.solr-cloud
-4.redis-cloud
-5.activemq
+1.dubbo   
+2.FastDFS   
+3.solr-cloud   
+4.redis-cloud   
+5.activemq   
 
 ## 项目框架
 SSM（Spring+SpringMVC+Mybatis）
