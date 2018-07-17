@@ -4,8 +4,8 @@
 ## 项目技术
 1.dubbo   
 2.FastDFS   
-3.solr-cloud   
-4.redis-cloud   
+3.solr  
+4.redis
 5.activemq   
 
 ## 项目框架
